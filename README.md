@@ -2,6 +2,15 @@
 Vifm
 ----
 
+Gnome Shell Extensions
+----------------------
+
+By default, Gnome 3 groups applications in the Alt-Tab view when switching from one application to
+another. While it is possible to navigate into application groups via the keyboard, it's a bit awkard.
+A better solution is the old Alt-Tab behavior of switching between windows instead of application groups.
+This can be accomplished with the 
+[AlternateTab extension](https://extensions.gnome.org/extension/15/alternatetab/), which is dead simple to install.
+
 
 Gnome Shell Settings
 --------------------
