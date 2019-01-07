@@ -1,0 +1,40 @@
+*Vimium-(FF)*                                               | *DrawIt*
+                                                            | '\di' start drawing - h,j,k,l to move
+                                                            | '\ds' stop drawing  - arrow keys to draw  
+                                                            |
+                                                            | *Vim Visual Block*  
+                                                            | 'ctrl-v' to enter   
+                                                            | 'y' to yank    'd' to delete  '1vp' paste over
+                                                            | 'P' to paste   'r' to replace 'c' change selection
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+
