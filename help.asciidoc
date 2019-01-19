@@ -1,40 +1,39 @@
-*Vimium-(FF)*                                               | *DrawIt*
-                                                            | '\di' start drawing - h,j,k,l to move
-                                                            | '\ds' stop drawing  - arrow keys to draw  
-                                                            |
-                                                            | *Vim Visual Block*  
-                                                            | 'ctrl-v' to enter   
-                                                            | 'y' to yank    'd' to delete  '1vp' paste over
-                                                            | 'P' to paste   'r' to replace 'c' change selection
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-                                                            |
-
++----------------------------------------------------------------------------------------------------------------------+
+|                                                           |                                                          |
+| *Programs*                                                | *DrawIt*                                                 |
+| 'ctrl-alt-t' tilix   'super-ctrl-t' gterm                 | '\di' start drawing - h,j,k,l to move                    |
+| 'super-/'    help    'ctrl-alt-f'   vifm                  | '\ds' stop drawing  - arrow keys to draw                 |
+| 'super-t'    quake                                        |                                                          |
+|                                                           | *Vim Visual Block*                                       |
+| *Navigation*                                              | 'ctrl-v' to enter and exit                               |
+| 'super-j/k' go to workspace up/down                       | 'y' to yank    'd' to delete  '1vp' paste over           |
+| 'super-]'   switcher                                      | 'P' to paste   'r' to replace 'c' change selection       |
+| 'super-['   launcher                                      |                                                          |
+|                                                           | *View Mode*                                              |
+| *Windows*                                                 | ':set noro' turns off read-only                          |
+| 'shift-super-j/k' move window workspace up/down           |                                                          |
+| 'alt-super-h/l'   maximize/restore window                 | *Other Vim*                                              |
+| 'ctrl-super-h/l'  tile window left/right                  | 'V' mark  'u' undo  'ctrl-r' redo                        |
+| 'super-w'         close window                            |                                                          |
+|                                                           |                                                          |
+| *Tilix Terminal Use*                                      |                                                          |
+| 'shift-alt-j/k'        scroll down/up                     |                                                          |
+| 'shift-ctrl-c/v'       copy/paste                         |                                                          |
+| 'ctrl-+/-'             zoom in/out                        |                                                          |
+| 'ctrl-0'               reset zoom                         |                                                          |
+| 'ctrl-alt-s'           synchronize input                  |                                                          |
+|                                                           |                                                          |
+| *Tilix Terminal Navigation*                               |                                                          |
+| 'alt-j/l'              add terminal down/right            |                                                          |
+| 'shift-alt-down/up'    resize down/up                     |                                                          |
+| 'shift-alt-right/left' resize right/left                  |                                                          |
+| 'ctrl-tab'             next terminal                      |                                                          |
+| 'ctrl-shift-tab'       previous terminal                  |                                                          |
+|                                                           |                                                          |
+| *Tilix Session Navigation*                                |                                                          |
+| 'shift-ctrl-t' new session                                |                                                          |
+| 'ctrl-`'       next session                               |                                                          |
+| 'ctrl-~'       previous session                           |                                                          |
+| 'F12'          session viewer     'F11' fullscreen toggle |                                                          |
+|                                                           |                                                          |
++----------------------------------------------------------------------------------------------------------------------+

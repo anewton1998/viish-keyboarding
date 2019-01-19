@@ -58,6 +58,7 @@ via the following steps.
 2. Install the Powerline Font: `sudo apt-get install fonts-powerline`
 3. Install BobTheFish: `omf install bobthefish`
 
+See the `setup.fish` file in this repository.
 
 Vim and Gvim
 ------------
