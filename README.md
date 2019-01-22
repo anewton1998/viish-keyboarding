@@ -87,7 +87,7 @@ based email client ever created, [Mutt](http://www.mutt.org/).
 
 For my needs, I required a better startup time than offered by Mutt using IMAP as I have a lot of
 email I should have deleted years ago but never did. So I compiled a copy of [NeoMutt](https://neomutt.org/)
-with the ldbm backend. You can see how I did the compilation [here](http://make-neomutt.md).
+with the ldbm backend. You can see how I did the compilation [here](https://github.com/anewton1998/viish-keyboarding/blob/master/make-neomutt.md).
 
 Mutt and NeoMutt need no special configuration for keyboard navigation out-of-the-box. You might do some
 customization for them... odds are you will... but out-of-the-box they are keybaord ready and very Vi
