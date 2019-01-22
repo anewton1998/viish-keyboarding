@@ -15,16 +15,16 @@
 | 'alt-super-h/l'   maximize/restore window                 | *Other Vim*                                              |
 | 'ctrl-super-h/l'  tile window left/right                  | 'V' mark  'u' undo  'ctrl-r' redo                        |
 | 'super-w'         close window                            |                                                          |
-|                                                           |                                                          |
-| *Tilix Terminal Use*                                      |                                                          |
-| 'shift-alt-j/k'        scroll down/up                     |                                                          |
-| 'shift-ctrl-c/v'       copy/paste                         |                                                          |
-| 'ctrl-+/-'             zoom in/out                        |                                                          |
-| 'ctrl-0'               reset zoom                         |                                                          |
-| 'ctrl-alt-s'           synchronize input                  |                                                          |
-|                                                           |                                                          |
-| *Tilix Terminal Navigation*                               |                                                          |
-| 'alt-j/l'              add terminal down/right            |                                                          |
+|                                                           | *IntelliJ*                                               |
+| *Tilix Terminal Use*                                      | 'alt-j/l'      split vertically/horizontally             |
+| 'shift-alt-j/k'        scroll down/up                     | 'alt-shit-j/l' move tab down/right                       |
+| 'shift-ctrl-c/v'       copy/paste                         | 'ctrl-tab' next tab        'ctrl-shift-tab' previous tab |
+| 'ctrl-+/-'             zoom in/out                        | 'ctrl-`'   next splitter   'ctrl-~'    previous splitter |
+| 'ctrl-0'               reset zoom                         | 'alt-shift-left/right/up/down' resize tool window        |
+| 'ctrl-alt-s'           synchronize input                  | 'ctrl-/'   line comment    'ctrl-shift-/' block comment  |
+|                                                           | 'ctrl-alt-l' reformat      'ctrl-alt-o' optimize imports |
+| *Tilix Terminal Navigation*                               | 'alt-ins'    generate code 'alt-enter'  light bulb       |
+| 'alt-j/l'              add terminal down/right            | 'alt-/'      search all    'alt-shift-7' find usages     |
 | 'shift-alt-down/up'    resize down/up                     |                                                          |
 | 'shift-alt-right/left' resize right/left                  |                                                          |
 | 'ctrl-tab'             next terminal                      |                                                          |
@@ -33,7 +33,7 @@
 | *Tilix Session Navigation*                                |                                                          |
 | 'shift-ctrl-t' new session                                |                                                          |
 | 'ctrl-`'       next session                               |                                                          |
-| 'ctrl-~'       previous session                           |                                                          |
-| 'F12'          session viewer     'F11' fullscreen toggle |                                                          |
+| 'ctrl-~'       previous session                           | *Other*                                                  |
+| 'F12'          session viewer     'F11' fullscreen toggle | 'shift-prtscrn' screenshot selection                     |
 |                                                           |                                                          |
 +----------------------------------------------------------------------------------------------------------------------+
