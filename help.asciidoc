@@ -9,11 +9,11 @@
 | 'super-j/k' go to workspace up/down                       | 'y' to yank    'd' to delete  '1vp' paste over           |
 | 'super-]'   switcher                                      | 'P' to paste   'r' to replace 'c' change selection       |
 | 'super-['   launcher                                      |                                                          |
-|                                                           | *View Mode*                                              |
+|                                                           | *Other Vim*                                              |
 | *Windows*                                                 | ':set noro' turns off read-only                          |
-| 'shift-super-j/k' move window workspace up/down           |                                                          |
-| 'alt-super-h/l'   maximize/restore window                 | *Other Vim*                                              |
-| 'ctrl-super-h/l'  tile window left/right                  | 'V' mark  'u' undo  'ctrl-r' redo                        |
+| 'shift-super-j/k' move window workspace up/down           | 'V' mark  'u' undo  'ctrl-r' redo                        |
+| 'alt-super-h/l'   maximize/restore window                 | 'ctrl-l/h'  next/previouse buffer                        |
+| 'ctrl-super-h/l'  tile window left/right                  |                                                          |
 | 'super-w'         close window                            |                                                          |
 |                                                           | *IntelliJ*                                               |
 | *Tilix Terminal Use*                                      | 'alt-j/l'      split vertically/horizontally             |
@@ -25,8 +25,8 @@
 |                                                           | 'ctrl-alt-l' reformat      'ctrl-alt-o' optimize imports |
 | *Tilix Terminal Navigation*                               | 'alt-ins'    generate code 'alt-enter'  light bulb       |
 | 'alt-j/l'              add terminal down/right            | 'alt-/'      search all    'alt-shift-7' find usages     |
-| 'shift-alt-down/up'    resize down/up                     |                                                          |
-| 'shift-alt-right/left' resize right/left                  |                                                          |
+| 'shift-alt-down/up'    resize down/up                     | 'shift-F6'   rename        'shift-F12'   test            |
+| 'shift-alt-right/left' resize right/left                  | 'F12'        build         'F10'         clean           |
 | 'ctrl-tab'             next terminal                      |                                                          |
 | 'ctrl-shift-tab'       previous terminal                  |                                                          |
 |                                                           |                                                          |

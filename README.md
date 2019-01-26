@@ -1,6 +1,9 @@
-
 Vifm
 ----
+
+Vifm is a vi-inspired file manager that runs in a terminal, and has two panes (similar to the
+days of yore with Midnight Commander). For vi users, it's pretty natural to grasp so I won't go
+into detail about it. Just get it.
 
 AlternateTab Gnome Extensions
 -----------------------------
@@ -60,9 +63,21 @@ via the following steps.
 
 See the `setup.fish` file in this repository.
 
+Tilix
+-----
+
 Vim and Gvim
 ------------
 
+Of course Vim and GVim are vim capable! That said, in my workflow I only use Vim for quick editing of system files
+or when I have a shell open on a remote host. Most of my coding is done in an IDE, specifically IntelliJ IDEA for me. 
+I rarely use GVim.
+
+The biggest workflow difference with Vim is using buffers, and since Vim runs in a terminal interpretting Control-Tab
+is difficult (and whould interfere with the terminals use of Control-Tab). For this, I use the "airline" plugin along
+with remapping Control-L and Control-H to mean next and previous buffers.
+
+My simple version of my vimrc is included in this repository.
 
 Visual Studio Code
 ------------------
@@ -71,9 +86,6 @@ Visual Studio Code
 IntelliJ IDEA
 -------------
 
-
-Tilix
------
 
 Vimium and Vimium-FF
 --------------------
@@ -112,3 +124,4 @@ get it confused with the purpose of modified 'j' (back in history) and modified 
 Plus, the Alt-Tab / Alt-Shift-Tab or Super-Tab / Super-Shift-Tab works well for switching between applications 
 while Ctrl-Tab / Ctrl-Shift-Tab works well in browsers and other applications. The metafore here doesn't seem
 to work, especially since Alt-Tab does application switching between the last two applications.
+
