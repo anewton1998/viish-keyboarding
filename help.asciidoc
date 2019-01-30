@@ -27,7 +27,7 @@
 | 'alt-j/l'              add terminal down/right            | 'alt-/'      search all    'alt-shift-7' find usages     |
 | 'shift-alt-down/up'    resize down/up                     | 'shift-F6'   rename        'shift-F12'   test            |
 | 'shift-alt-right/left' resize right/left                  | 'F12'        build         'F10'         clean           |
-| 'ctrl-tab'             next terminal                      |                                                          |
+| 'ctrl-tab'             next terminal                      | 'ctrl-k'     commit        'ctrl-alt-k'  commit & push   |
 | 'ctrl-shift-tab'       previous terminal                  |                                                          |
 |                                                           |                                                          |
 | *Tilix Session Navigation*                                |                                                          |
